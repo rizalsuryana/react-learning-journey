@@ -1,8 +1,8 @@
-React Learning Journey
+# React Learning Journey
 
 This repository consolidates all the files, exercises, and projects from my React learning journey into one place. It serves as a reference for learning, practicing, and building React applications.
 
-Contents
+## Contents
 
 This repository includes:
 
